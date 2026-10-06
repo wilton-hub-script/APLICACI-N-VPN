@@ -1,0 +1,6 @@
+{
+  "name": "Wilt Gamin Pro",
+  "description": "Wilt Gamin Pro VPN & Gamer Booster nativo con Proxy Mode, monitor de FPS en tiempo real, optimización de latencia y protección de anuncios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
